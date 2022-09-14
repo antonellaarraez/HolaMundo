@@ -2,4 +2,4 @@
 
 Mi primer repositorio en github
 
-I love: music, dogs . cats
+I love , 🎵 , 🐶 , 🐱
